@@ -6,6 +6,8 @@ Our approach draws on SSSA and REPREX competence in quantitative finance methodo
 
 🌈 Contribution guidelines - you must abide by the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) Code of Conduct.
 
+📖  [Contribution manual](https://manual.dataobservatory.eu/)
+
 
 ## Ignored files in .gitignore
 We place a list of folders and files that are ignored for synchronization from the user’s client computer to Github and beyond.  These are usually passwords, login credentials, project management or log files used by your IDE or other work environment.  We by default, excluded all RStudio standards, and usually all Jupiter Notebook standards, and a few Windows/Mac specific files.
