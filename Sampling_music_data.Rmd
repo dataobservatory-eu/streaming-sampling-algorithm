@@ -1,0 +1,28 @@
+---
+title: "Sampling music streaming data"
+author: ""
+date: "2023-01-22"
+output: 
+    html_document:
+      default
+    md_document:
+      default
+bibliography:
+  - bib/datainteroperability.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Sampling music streaming data
+
+This subtask feeds into [Economy of music in Europe: Methods and indicators](https://openmuse.dataobservatory.eu/resources/report-european-music-economy/)
+
+Example to add a bibliographic reference: [@pomerantz_2015].
+
+
+
+Our approach draws on SSSA and REPREX competence in quantitative finance methodology. The selectivity bias in streaming data accessible by EU music stakeholders is a problem analogous to the statistical characterization of the price movements, volumes and return of illiquid, infrequently traded securities, or, symmetrically, in estimating duration models of high frequency arrival process in discretized continuous time models (Bottazzi et al. 2020). In these use cases,several approaches are possible: e.g., dynamic reverse sampling to identify the part of the repertoire that is persistently active; zero-inflated models explicitly accounting for the occurrence of “no event”; or branching arrival processes generating cascades of events over a very low baseline intensity (Shi, Dai, and Long 2021; Sucarrat and Grønneberg 2020). A common-sense example of the application of finance methodology to track price and volume in complex markets with imperfect information is the Dow Jones Industrial Average, which gives accurate guidance on price movements and risk for an entire market, using special averaging and periodical rebalancing of only 30 share prices. Using similar statistical methods, we will identify and track the domestic and international performance of limited baskets of recordings/works that are representative of particular streaming market segments: e.g., Italian emerging artists or Slovak classical performers. This approach was piloted in CEEMID, which created price and volume indexes for 20 European countries to reveal why streaming revenue growth concentrates around the top ca. 1% of rights-holders (Antal, 2020a), and further used in UK policy work related to the parliamentary inquiry into streaming economics (Hesmondhalgh et al., 2021).
+
+# References

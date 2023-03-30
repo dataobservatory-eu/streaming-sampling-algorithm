@@ -1,0 +1,16 @@
+## Scrapbook
+
+not_included/
+
+## RStudio
+
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+
+#Jupiter
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
