@@ -3,7 +3,7 @@
 
 🌈 Contribution guidelines - you must abide by the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) Code of Conduct.
 
-📖  [Contribution manual](https://manual.dataobservatory.eu/)
+📖  [Contribution manual](https://manual.dataobservatory.eu/) | [GO FAIR](https://www.go-fair.org/fair-principles/fairification-process/) | [Open Policy Analysis Guidelines (Level 3)](https://openmuse.dataobservatory.eu/resources/opa/)
 
 This subtask feeds into [Economy of music in Europe: Methods and indicators](https://openmuse.dataobservatory.eu/resources/report-european-music-economy/)
 
