@@ -19,6 +19,8 @@ We have two data folders, which may have numerous subfolders.
 
 `data-raw`:  Raw, unprocessed data, as received, downloaded, collected. Please try to ingest data as well-documented as possible.  If the ingestion is not done by our reproducible tools that log the download, copying, and bibliographic references, you are requested to create a standard bibliographic reference for any data that you place here. You can use your favorite citation management tool or join our shared, open-source, Zotero account, but eventually, the data asset must be added to the bib/data-raw.bib files as a standard, BibLatex data citation. We use the DataCite standard, which almost fully corresponds to DublinCore.
 
+The `data-rawa/CoversBR_metadata_synth.csv` was created from the [CoversBR - A large dataset for Cover Song Identification](https://github.com/SPLab-IT/CoversBR#coversbr---a-large-dataset-for-cover-song-identification) dataset with `R/create_coversbr_synth.R`. 
+
 `data`: This folder contains the processed data or our outputs.  Any data here must adhere to the tidy data principle and be documented by DataCite standards.  We are developing a tool, dataset, which will do this automatically in WP4.  We can investigate a Python connector for this if there is a need for that.
 Bibliographic reference folders.
 
